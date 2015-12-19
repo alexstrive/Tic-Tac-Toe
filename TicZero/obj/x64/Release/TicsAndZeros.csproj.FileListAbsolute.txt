@@ -1,0 +1,9 @@
+D:\Source\TicZero\TicZero\bin\x64\Release\TicsAndZeroes.exe.config
+D:\Source\TicZero\TicZero\bin\x64\Release\TicsAndZeroes.exe
+D:\Source\TicZero\TicZero\bin\x64\Release\TicsAndZeroes.pdb
+D:\Source\TicZero\TicZero\obj\x64\Release\TicsAndZeros.csprojResolveAssemblyReference.cache
+D:\Source\TicZero\TicZero\obj\x64\Release\TicZero.MainForm.resources
+D:\Source\TicZero\TicZero\obj\x64\Release\TicsAndZeroes.Properties.Resources.resources
+D:\Source\TicZero\TicZero\obj\x64\Release\TicsAndZeros.csproj.GenerateResource.Cache
+D:\Source\TicZero\TicZero\obj\x64\Release\TicsAndZeroes.exe
+D:\Source\TicZero\TicZero\obj\x64\Release\TicsAndZeroes.pdb
